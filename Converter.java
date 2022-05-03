@@ -1,4 +1,5 @@
 public class Converter {
+//добавил комнтарий
     double rateUSD;
     double rateEUR;
     double rateJPY;
